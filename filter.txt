@@ -378,3 +378,4 @@
 /.*soccer.+/
 /.*sport.+/
 /.*rezka.+/
+/.*movie.+/
