@@ -377,3 +377,4 @@
 /.*football.+/
 /.*soccer.+/
 /.*sport.+/
+/.*rezka.+/
