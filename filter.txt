@@ -374,3 +374,4 @@
 ||cineb.net^
 ||play.google.com^
 /.*kinogo.+/
+||kinogo.biz^
