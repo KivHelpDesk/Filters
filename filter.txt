@@ -374,3 +374,5 @@
 ||cineb.net^
 ||play.google.com^
 /.*kino.+/
+/.*football.+/
+/.*soccer.+/
