@@ -379,3 +379,4 @@
 /.*sport.+/
 /.*rezka.+/
 /.*movie.+/
+/.*justwatch.+/
