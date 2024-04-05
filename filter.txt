@@ -373,4 +373,3 @@
 ||db-bet.com^
 ||cineb.net^
 ||play.google.com^
-/.*kinogo.+/
