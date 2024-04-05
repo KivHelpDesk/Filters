@@ -376,4 +376,4 @@
 /.*kino.+/
 /.*football.+/
 /.*soccer.+/
-/.sport.+/
+/.*sport.+/
