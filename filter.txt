@@ -373,6 +373,7 @@
 ||db-bet.com^
 ||cineb.net^
 ||play.google.com^
+||ivi.ru^
 /.*kino.+/
 /.*football.+/
 /.*soccer.+/
