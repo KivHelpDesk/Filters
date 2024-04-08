@@ -376,6 +376,7 @@
 ||ivi.ru^
 ||comedyresident.ru^
 ||the-cinema.online^
+||webhd.tvcanale.live^
 /.*kino.+/
 /.*football.+/
 /.*soccer.+/
