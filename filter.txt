@@ -374,6 +374,7 @@
 ||cineb.net^
 ||play.google.com^
 ||ivi.ru^
+||comedyresident.ru^
 /.*kino.+/
 /.*football.+/
 /.*soccer.+/
@@ -381,3 +382,4 @@
 /.*rezka.+/
 /.*movie.+/
 /.*justwatch.+/
+/.*film.+/
