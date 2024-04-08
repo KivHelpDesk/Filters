@@ -375,6 +375,7 @@
 ||play.google.com^
 ||ivi.ru^
 ||comedyresident.ru^
+||the-cinema.online^
 /.*kino.+/
 /.*football.+/
 /.*soccer.+/
