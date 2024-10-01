@@ -385,3 +385,4 @@
 /.*movie.+/
 /.*justwatch.+/
 /.*film.+/
+/.*universe.flyff.+/
