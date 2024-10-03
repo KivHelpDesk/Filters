@@ -388,3 +388,4 @@
 /.*flyff.+/
 /.*webtoon.+/
 /.*msn.com.+/
+/^.*zone.msn.com/
