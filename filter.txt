@@ -378,6 +378,7 @@
 ||the-cinema.online^
 ||webhd.tvcanale.live^
 ||msn.com^
+||privatebin.net^
 /.*kino.+/
 /.*football.+/
 /.*soccer.+/
