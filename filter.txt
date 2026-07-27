@@ -380,6 +380,7 @@
 ||msn.com^
 ||privatebin.net^
 /.*kino.+/
+/.*serial.+/
 /.*football.+/
 /.*soccer.+/
 /.*sport.+/
