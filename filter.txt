@@ -379,6 +379,7 @@
 ||webhd.tvcanale.live^
 ||msn.com^
 ||privatebin.net^
+||lifeseries.ru^
 /.*kino.+/
 /.*serial.+/
 /.*football.+/
