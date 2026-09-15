@@ -141,3 +141,4 @@ jsdelivr.net^
 gstatic.com^
 kivork.md^
 ssl.gstatic.com^
+@@/.*cloudflare.+/
