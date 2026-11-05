@@ -1,5 +1,6 @@
+! Title: Support blocklist
+! Description: Blocked domains for client Support
 ||whatsapp.com^$client='Support'
-||yahoo.com^$client='Support'
 ||discordapp.com^$client='Support'
 ||photopea.com^$client='Support'
 ||zerogpt.com^$client='Support'
@@ -17,12 +18,10 @@
 ||pdf24.org^$client='Support'
 ||telegram.org^$client='Support'
 ||messenger.com^$client='Support'
-||proton.me^$client='Support'
 ||onlinenotepad.org^$client='Support'
 ||watermarkly.com^$client='Support'
 ||mp3cut.net^$client='Support'
 ||wireguard.com^$client='Support'
-||live.com^$client='Support'
 ||unspam.email^$client='Support'
 ||oracle.com^$client='Support'
 ||fabricmc.net^$client='Support'
