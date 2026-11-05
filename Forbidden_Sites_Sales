@@ -1,3 +1,5 @@
+! Title: PanoramaSales blocklist
+! Description: Blocked domains for client PanoramaSales
 ||telegram.org^$client='PanoramaSales'
 ||999.md^$client='PanoramaSales'
 ||discord.com^$client='PanoramaSales'
